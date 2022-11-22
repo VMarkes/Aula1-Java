@@ -6,7 +6,7 @@
 # Uso
 > Este programa extrai os dados de uma API json, expecificamente uma API da imDb films;
 
-> Expõe o título, uma url da capa do filme e o rating do filme de acordo '1com as avaliações do site da imDb em formato de emoji de estrela;
+> Expõe o título, uma url da capa do filme e o rating do filme de acordo com as avaliações do site da imDb em formato de emoji de estrela;
 
 > Pergunta qual a sua avaliação sobre cada filme;
 
