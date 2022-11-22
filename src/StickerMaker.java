@@ -23,7 +23,7 @@ public class StickerMaker {
         graphics.setColor(Color.yellow);
         graphics.setFont(font);
 
-        graphics.drawString("MIAU", 500, newHeight - 80);
+        graphics.drawString("Texto", 500, newHeight - 80);
 
         File dir = new File("C:/Users/vinic/Desktop/Imersao Alura/saida");
         dir.mkdir();
