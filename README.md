@@ -10,8 +10,6 @@
 
 > Pergunta qual a sua avaliação sobre cada filme;
 
-> Cria uma pasta para saída das figurinhas;
-
 > Cria uma figurinha com cada capa de filme + texto;
 
 # O que aprendi com esse curso?
